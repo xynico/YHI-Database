@@ -1,4 +1,4 @@
-there are three xlsx files to present the arousal and pleasure of each participants for each images.
+there are four xlsx files to present the arousal and pleasure of each participants for each images.
 
 
 ************************************************************************ IMPORTANT ****************************************************************************************
@@ -6,6 +6,8 @@ there are three xlsx files to present the arousal and pleasure of each participa
 arousal.xlsx contains the index of arousal rating of each individuals.
 
 pleasure.xlsx contains the index of pleasure rating of each individuals.
+
+mergephy.xlsx contains the properties of the image itself.
 
 where, rg colnum means the group of individuals.1 means female yaoi fans, and 2 means female yaoi non-fans.
 
