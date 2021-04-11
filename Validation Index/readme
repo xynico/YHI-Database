@@ -11,7 +11,7 @@ ImageDescription.xlsx contains the description of each image：
 
 
 Image |	Class	    |           Female Yaoi Non-fans		           |              Female Yaoi Fans		              |        Arousal		    |        Pleasure		
-		  |           | Arousal Average(Std)	Pleasure Average(Std)	 |   Arousal Average(Std)	Pleasure Average(Std)	  |  t(137)	95%CI		sig	  |   t(137)	95%CI		sig
+        |           | Arousal Average(Std)	Pleasure Average(Std)	   |   Arousal Average(Std)	Pleasure Average(Std)	      |  t(137)	95%CI	sig	    |   t(137)	95%CI		sig
       
 Image colnum is the index of images.
 Class 1 is yaoi images, Class 2 is heterosexual images.
