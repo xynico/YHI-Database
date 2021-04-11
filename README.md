@@ -1,2 +1,2 @@
-# YHI
+# YHI Database
 The Yaoi and Heterosexual Image (YHI, pronounced “Ya-i”) Database(Version 1) is the first set of labeled natural person image of yaoi and heterosexual genre, including multi-dimensions of the properties for each image, representing a wide variety of scenarios which occurred in yaoi or heterosexual film, TV serious, comic and novel in Asia, Europe, and South America. All images were rated on dimensions of pleasure and arousal by female yaoi fans and female yaoi non-fans.
