@@ -11,6 +11,8 @@ mergephy.xlsx contains the properties of the image itself.
 
 where, rg colnum means the group of individuals.1 means female yaoi fans, and 2 means female yaoi non-fans.
 
+label.xlsx contains the labels marked in each image.
+
 ImageDescription.xlsx contains the description of each image：
 
 
